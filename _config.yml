@@ -1,3 +1,6 @@
 title: Bathva - Bathroom Furniture Sanitary Ware
 description: Premium bathroom vanities, shower doors & hardware from Foshan, China
-url: "https://www.bathva.com"
+baseurl: "" 
+url: "https://www.bathva.com" 
+theme: minima  
+plugins: [jekyll-feed] 
